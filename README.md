@@ -9,9 +9,9 @@ A cool clicking game that checks you control over your touchpad. Click the corre
 
 Again I thank the vast library support of python that enabled me to complete this project. Please make sure you have these libraries installed in you device before running the code.
 
-Functools:- Documentation:- https://docs.python.org/3/library/functools.html
-Random:- Documentation:- https://docs.python.org/3/library/random.html
-Tkinter:- Documentation:- https://docs.python.org/3/library/tk.html
+1. Functools:- Documentation:-https://docs.python.org/3/library/functools.html
+2. Random:- Documentation:-https://docs.python.org/3/library/random.html
+3. Tkinter:- Documentation:-https://docs.python.org/3/library/tk.html
 Play and practice as much as you can and Make sure that you are running this project on Python 3.
 
 I didn't use any sort of database to store the scores but it may be useful to do so in order to incerase the practicality and effeciency of the project.
